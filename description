@@ -1,0 +1,22 @@
+/* fs - rem(1.3, 1.4, 1.7, 2.1, 3, 3.5)
+fw - 500, 700
+text family - roboto, league spartan
+color - hsl, linear gradient
+properties - shadow, transition, radius, spacing
+tags - a, li, img,span,time,label,input,button,textarea
+webkit scrollbar
+class - .section, .section-title, .section-text, .container, .grid-list, 
+img class - .img-holder, .img-cover
+button class - .btn, .btn-primary, .btn-secondary
+header class - .header, .header.active, .logo, .nav-toggle-btn, .navbar,.navbar.active, .navbar-list, .navbar-link
+hero class - .hero, .hero-content, .hero-subtitle, .hero-text
+service class - .service, .service-card, .section-text, .card-title, .card-text
+project - .project, .section-text, .project-card, .card-content, .card-subtitle, .card-title
+about - .about, .about-banner, .play-btn, .section-title, .h3, .about-list, .about-item, 
+cta - .cta, .cta-subtitle, .section-title, .btn
+blog - .blog, .blog-card, .card-banner, .card-content, .time, .card-title
+contact - .contact, .section-text, .contact-form, .input-field, .checkbox, .checkbox-wrapper, .label, .label-link, .contact-list, .contact-item, 
+.contact-card, .card-icon, .card-title, .card-address, .card-link
+footer - .footer, .copyright, .copyright-link
+back to top - .back-top-btn 
+media queries */
